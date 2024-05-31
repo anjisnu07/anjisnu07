@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjisnu07&label=Profile%20views&color=0e75b6&style=flat" alt="anjisnu07" /> </p>
 
-- 🔭 I’m currently working on [Ayurdava](https://www.ayurdava.com/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjisnu07" alt="anjisnu07" /></a> </p>
+
+- 🔭 I’m currently working on [Cracknet](https://github.com/anjisnu07/cracknet)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjisnu07?tab=repositories](https://github.com/anjisnu07?tab=repositories)
 
@@ -22,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjisnu07&show_icons=true&locale=en&layout=compact" alt="anjisnu07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjisnu07&show_icons=true&locale=en" alt="anjisnu07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjisnu07&" alt="anjisnu07" /></p>
